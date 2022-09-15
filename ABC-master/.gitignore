@@ -1,0 +1,15 @@
+*.png
+*.jpg
+*.docx
+*.ppt
+*.pptx
+*.pyc
+*.txt
+*~
+*.zip
+*.rar
+*.pdf
+.vscode*
+*.ppsx
+*.db
+

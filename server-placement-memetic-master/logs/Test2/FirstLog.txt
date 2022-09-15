@@ -1,0 +1,251 @@
+Task no.1on DC 1Node 1
+Task no.2on DC 1Node 1
+Task no.3on DC 1Node 2
+Task no.4on DC 1Node 3
+Task no.5on DC 1Node 3
+Task no.6on DC 2Node 4
+Task no.7on DC 2Node 4
+Task no.8on DC 1Node 1
+Task no.9on DC 1Node 1
+Task no.10on DC 2Node 5
+Task no.11on DC 2Node 5
+Task no.12on DC 1Node 1
+Task no.13on DC 2Node 6
+Task no.14on DC 2Node 6
+Task no.15on DC 2Node 7
+Task no.16on DC 2Node 7
+Task no.17on DC 1Node 2
+Task no.18on DC 4Node 11
+Task no.19on DC 1Node 1
+Task no.20on DC 4Node 11
+Task no.21on DC 4Node 11
+Task no.22on DC 4Node 12
+Task no.23on DC 1Node 2
+Task no.24on DC 2Node 6
+Task no.25on DC 4Node 12
+Task no.26on DC 2Node 4
+Task no.27on DC 4Node 12
+Task no.28on DC 4Node 13
+Task no.29on DC 4Node 13
+Task no.30on DC 4Node 13
+Task no.31on DC 4Node 14
+Task no.32on DC 4Node 14
+Task no.33on DC 4Node 14
+Task no.34on DC 2Node 6
+Task no.35on DC 1Node 1
+Task no.36on DC 3Node 8
+Task no.37on DC 2Node 7
+Task no.38on DC 4Node 15
+Task no.39on DC 4Node 15
+Task no.40on DC 3Node 8
+Task no.41on DC 4Node 15
+Task no.42on DC 5Node 16
+Task no.43on DC 5Node 16
+Task no.44on DC 5Node 16
+Task no.45on DC 5Node 16
+Task no.46on DC 5Node 16
+Task no.47on DC 5Node 16
+Task no.48on DC 7Node 22
+Task no.49on DC 1Node 2
+Task no.50on DC 7Node 22
+Task no.51on DC 7Node 22
+Task no.52on DC 7Node 22
+Task no.53on DC 7Node 22
+Task no.54on DC 4Node 12
+Task no.55on DC 7Node 23
+Task no.56on DC 7Node 23
+Task no.57on DC 7Node 23
+Task no.58on DC 7Node 23
+Task no.59on DC 3Node 9
+Task no.60on DC 2Node 4
+Task no.61on DC 5Node 16
+Task no.62on DC 7Node 23
+Task no.63on DC 3Node 8
+Task no.64on DC 7Node 24
+Task no.65on DC 7Node 24
+Task no.66on DC 7Node 22
+Task no.67on DC 7Node 24
+Task no.68on DC 1Node 2
+Task no.69on DC 7Node 25
+Task no.70on DC 3Node 10
+Task no.71on DC 7Node 24
+Task no.72on DC 3Node 8
+Task no.73on DC 7Node 23
+Task no.74on DC 7Node 24
+Task no.75on DC 7Node 25
+Task no.76on DC 7Node 25
+Task no.77on DC 7Node 25
+Task no.78on DC 5Node 16
+Task no.79on DC 7Node 26
+Task no.80on DC 6Node 17
+Task no.81on DC 6Node 18
+Task no.82on DC 7Node 25
+Task no.83on DC 7Node 26
+Task no.84on DC 7Node 26
+Task no.85on DC 7Node 26
+Task no.86on DC 7Node 26
+Task no.87on DC 3Node 9
+Task no.88on DC 2Node 4
+Task no.89on DC 7Node 26
+Task no.90on DC 5Node 16
+Task no.91 could not be assigned to any node.
+Task no.92on DC 7Node 22
+Task no.93on DC 6Node 19
+Task no.94 could not be assigned to any node.
+Task no.95 could not be assigned to any node.
+Task no.96on DC 6Node 20
+Task no.97on DC 6Node 18
+Task no.98on DC 1Node 3
+Task no.99on DC 6Node 20
+Task no.100 could not be assigned to any node.
+Task no.101 could not be assigned to any node.
+Task no.102 could not be assigned to any node.
+Task no.103 could not be assigned to any node.
+Task no.104 could not be assigned to any node.
+Task no.105on DC 4Node 14
+Task no.106 could not be assigned to any node.
+Task no.107on DC 2Node 5
+Task no.108on DC 6Node 21
+Task no.109on DC 7Node 23
+Task no.110 could not be assigned to any node.
+Task no.111 could not be assigned to any node.
+Task no.112on DC 1Node 1
+Task no.113 could not be assigned to any node.
+Task no.114on DC 6Node 21
+Task no.115on DC 3Node 9
+Task no.116on DC 2Node 6
+Task no.117on DC 7Node 25
+Task no.118 could not be assigned to any node.
+Task no.119 could not be assigned to any node.
+Task no.120 could not be assigned to any node.
+Task no.121on DC 3Node 10
+Task no.122 could not be assigned to any node.
+Task no.123on DC 7Node 26
+Task no.124 could not be assigned to any node.
+Task no.125 could not be assigned to any node.
+Task no.126 could not be assigned to any node.
+Task no.127on DC 6Node 17
+Task no.128 could not be assigned to any node.
+Task no.129 could not be assigned to any node.
+Task no.130 could not be assigned to any node.
+Task no.131 could not be assigned to any node.
+Task no.132 could not be assigned to any node.
+Task no.133 could not be assigned to any node.
+Task no.134 could not be assigned to any node.
+Task no.135 could not be assigned to any node.
+Task no.136 could not be assigned to any node.
+Task no.137 could not be assigned to any node.
+Task no.138on DC 1Node 2
+Task no.139 could not be assigned to any node.
+Task no.140 could not be assigned to any node.
+Task no.141 could not be assigned to any node.
+Task no.142 could not be assigned to any node.
+Task no.143 could not be assigned to any node.
+Task no.144 could not be assigned to any node.
+Task no.145 could not be assigned to any node.
+Task no.146on DC 7Node 23
+Task no.147on DC 6Node 18
+Task no.148 could not be assigned to any node.
+Task no.149 could not be assigned to any node.
+Task no.150 could not be assigned to any node.
+Task no.151 could not be assigned to any node.
+Task no.152on DC 7Node 25
+Task no.153on DC 1Node 3
+Task no.154 could not be assigned to any node.
+Task no.155 could not be assigned to any node.
+Task no.156 could not be assigned to any node.
+Task no.157 could not be assigned to any node.
+Task no.158 could not be assigned to any node.
+Task no.159 could not be assigned to any node.
+Task no.160 could not be assigned to any node.
+Task no.161 could not be assigned to any node.
+Task no.162 could not be assigned to any node.
+Task no.163 could not be assigned to any node.
+Task no.164 could not be assigned to any node.
+Task no.165 could not be assigned to any node.
+Task no.166on DC 2Node 4
+Task no.167 could not be assigned to any node.
+Task no.168 could not be assigned to any node.
+Task no.169 could not be assigned to any node.
+Task no.170 could not be assigned to any node.
+Task no.171 could not be assigned to any node.
+Task no.172on DC 6Node 19
+Task no.173on DC 2Node 4
+Task no.174 could not be assigned to any node.
+Task no.175on DC 7Node 25
+Task no.176 could not be assigned to any node.
+Task no.177 could not be assigned to any node.
+Task no.178 could not be assigned to any node.
+Task no.179 could not be assigned to any node.
+Task no.180 could not be assigned to any node.
+Task no.181 could not be assigned to any node.
+Task no.182 could not be assigned to any node.
+Task no.183 could not be assigned to any node.
+Task no.184 could not be assigned to any node.
+Task no.185 could not be assigned to any node.
+Task no.186on DC 7Node 26
+Task no.187 could not be assigned to any node.
+Task no.188 could not be assigned to any node.
+Task no.189 could not be assigned to any node.
+Task no.190 could not be assigned to any node.
+Task no.191 could not be assigned to any node.
+Task no.192on DC 4Node 11
+Task no.193 could not be assigned to any node.
+Task no.194 could not be assigned to any node.
+Task no.195 could not be assigned to any node.
+Task no.196 could not be assigned to any node.
+Task no.197 could not be assigned to any node.
+Task no.198 could not be assigned to any node.
+Task no.199 could not be assigned to any node.
+Task no.200 could not be assigned to any node.
+Task no.201 could not be assigned to any node.
+Task no.202 could not be assigned to any node.
+Task no.203 could not be assigned to any node.
+Task no.204 could not be assigned to any node.
+Task no.205 could not be assigned to any node.
+Task no.206 could not be assigned to any node.
+Task no.207 could not be assigned to any node.
+Task no.208 could not be assigned to any node.
+Task no.209 could not be assigned to any node.
+Task no.210 could not be assigned to any node.
+Task no.211 could not be assigned to any node.
+Task no.212 could not be assigned to any node.
+Task no.213 could not be assigned to any node.
+Task no.214 could not be assigned to any node.
+Task no.215 could not be assigned to any node.
+Task no.216 could not be assigned to any node.
+Task no.217 could not be assigned to any node.
+Task no.218 could not be assigned to any node.
+Task no.219 could not be assigned to any node.
+Task no.220 could not be assigned to any node.
+Task no.221 could not be assigned to any node.
+Task no.222 could not be assigned to any node.
+Task no.223 could not be assigned to any node.
+Task no.224on DC 1Node 1
+Task no.225 could not be assigned to any node.
+Task no.226 could not be assigned to any node.
+Task no.227 could not be assigned to any node.
+Task no.228 could not be assigned to any node.
+Task no.229 could not be assigned to any node.
+Task no.230 could not be assigned to any node.
+Task no.231 could not be assigned to any node.
+Task no.232 could not be assigned to any node.
+Task no.233 could not be assigned to any node.
+Task no.234 could not be assigned to any node.
+Task no.235 could not be assigned to any node.
+Task no.236 could not be assigned to any node.
+Task no.237 could not be assigned to any node.
+Task no.238 could not be assigned to any node.
+Task no.239 could not be assigned to any node.
+Task no.240 could not be assigned to any node.
+Task no.241 could not be assigned to any node.
+Task no.242 could not be assigned to any node.
+Task no.243 could not be assigned to any node.
+Task no.244 could not be assigned to any node.
+Task no.245 could not be assigned to any node.
+Task no.246 could not be assigned to any node.
+Task no.247 could not be assigned to any node.
+Task no.248 could not be assigned to any node.
+Task no.249 could not be assigned to any node.
+Task no.250 could not be assigned to any node.
+Fitness  0.48

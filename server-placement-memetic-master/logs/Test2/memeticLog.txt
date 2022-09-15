@@ -1,0 +1,307 @@
+%%%%%%%%%%%%%%%%%%SOLUTION%%%%%%%%%%%%%%%%%
+Request No 0 : 25
+Request No 1 : 2
+Request No 2 : 11
+Request No 3 : 25
+Request No 4 : 16
+Request No 5 : 25
+Request No 6 : 14
+Request No 7 : 11
+Request No 8 : 4
+Request No 9 : 11
+Request No 10 : 12
+Request No 11 : 4
+Request No 12 : 9
+Request No 13 : 15
+Request No 14 : 15
+Request No 15 : 21
+Request No 16 : 14
+Request No 17 : -1
+Request No 18 : 1
+Request No 19 : -1
+Request No 20 : -1
+Request No 21 : 13
+Request No 22 : 3
+Request No 23 : 26
+Request No 24 : 15
+Request No 25 : 6
+Request No 26 : 5
+Request No 27 : 1
+Request No 28 : -1
+Request No 29 : 5
+Request No 30 : 7
+Request No 31 : 23
+Request No 32 : -1
+Request No 33 : 21
+Request No 34 : 1
+Request No 35 : 9
+Request No 36 : 1
+Request No 37 : 14
+Request No 38 : -1
+Request No 39 : 11
+Request No 40 : -1
+Request No 41 : -1
+Request No 42 : 12
+Request No 43 : -1
+Request No 44 : 26
+Request No 45 : 24
+Request No 46 : -1
+Request No 47 : -1
+Request No 48 : 22
+Request No 49 : -1
+Request No 50 : -1
+Request No 51 : 26
+Request No 52 : 13
+Request No 53 : 14
+Request No 54 : -1
+Request No 55 : -1
+Request No 56 : 24
+Request No 57 : -1
+Request No 58 : 18
+Request No 59 : 25
+Request No 60 : 16
+Request No 61 : -1
+Request No 62 : 18
+Request No 63 : 22
+Request No 64 : -1
+Request No 65 : 7
+Request No 66 : 16
+Request No 67 : 5
+Request No 68 : -1
+Request No 69 : 2
+Request No 70 : 26
+Request No 71 : 8
+Request No 72 : 22
+Request No 73 : 22
+Request No 74 : 7
+Request No 75 : -1
+Request No 76 : 4
+Request No 77 : 10
+Request No 78 : 14
+Request No 79 : 12
+Request No 80 : 19
+Request No 81 : 4
+Request No 82 : 11
+Request No 83 : -1
+Request No 84 : 6
+Request No 85 : 6
+Request No 86 : 10
+Request No 87 : 6
+Request No 88 : 3
+Request No 89 : -1
+Request No 90 : -1
+Request No 91 : 5
+Request No 92 : 25
+Request No 93 : -1
+Request No 94 : -1
+Request No 95 : -1
+Request No 96 : 10
+Request No 97 : 5
+Request No 98 : 17
+Request No 99 : 26
+Request No 100 : -1
+Request No 101 : 22
+Request No 102 : -1
+Request No 103 : -1
+Request No 104 : 13
+Request No 105 : 4
+Request No 106 : 4
+Request No 107 : 16
+Request No 108 : 2
+Request No 109 : 25
+Request No 110 : -1
+Request No 111 : 1
+Request No 112 : 24
+Request No 113 : 13
+Request No 114 : 18
+Request No 115 : 22
+Request No 116 : 5
+Request No 117 : 8
+Request No 118 : -1
+Request No 119 : 22
+Request No 120 : 19
+Request No 121 : 24
+Request No 122 : 24
+Request No 123 : 25
+Request No 124 : -1
+Request No 125 : -1
+Request No 126 : 8
+Request No 127 : -1
+Request No 128 : -1
+Request No 129 : -1
+Request No 130 : -1
+Request No 131 : 14
+Request No 132 : -1
+Request No 133 : 26
+Request No 134 : -1
+Request No 135 : -1
+Request No 136 : -1
+Request No 137 : 2
+Request No 138 : 23
+Request No 139 : -1
+Request No 140 : -1
+Request No 141 : 24
+Request No 142 : -1
+Request No 143 : 24
+Request No 144 : 2
+Request No 145 : 5
+Request No 146 : 20
+Request No 147 : 3
+Request No 148 : -1
+Request No 149 : -1
+Request No 150 : 23
+Request No 151 : 6
+Request No 152 : 1
+Request No 153 : 26
+Request No 154 : 22
+Request No 155 : 17
+Request No 156 : -1
+Request No 157 : 19
+Request No 158 : -1
+Request No 159 : -1
+Request No 160 : -1
+Request No 161 : -1
+Request No 162 : 20
+Request No 163 : -1
+Request No 164 : 16
+Request No 165 : 6
+Request No 166 : -1
+Request No 167 : -1
+Request No 168 : -1
+Request No 169 : -1
+Request No 170 : -1
+Request No 171 : 17
+Request No 172 : 5
+Request No 173 : 7
+Request No 174 : 4
+Request No 175 : -1
+Request No 176 : 22
+Request No 177 : 25
+Request No 178 : -1
+Request No 179 : 15
+Request No 180 : 3
+Request No 181 : -1
+Request No 182 : -1
+Request No 183 : -1
+Request No 184 : -1
+Request No 185 : 4
+Request No 186 : -1
+Request No 187 : 23
+Request No 188 : -1
+Request No 189 : 2
+Request No 190 : -1
+Request No 191 : 2
+Request No 192 : 7
+Request No 193 : 7
+Request No 194 : 23
+Request No 195 : 4
+Request No 196 : -1
+Request No 197 : -1
+Request No 198 : 9
+Request No 199 : -1
+Request No 200 : 5
+Request No 201 : -1
+Request No 202 : 12
+Request No 203 : 3
+Request No 204 : -1
+Request No 205 : -1
+Request No 206 : 8
+Request No 207 : 26
+Request No 208 : -1
+Request No 209 : 12
+Request No 210 : -1
+Request No 211 : -1
+Request No 212 : 4
+Request No 213 : -1
+Request No 214 : 24
+Request No 215 : -1
+Request No 216 : -1
+Request No 217 : 6
+Request No 218 : 23
+Request No 219 : -1
+Request No 220 : -1
+Request No 221 : -1
+Request No 222 : 1
+Request No 223 : 2
+Request No 224 : -1
+Request No 225 : 16
+Request No 226 : 2
+Request No 227 : -1
+Request No 228 : -1
+Request No 229 : -1
+Request No 230 : 16
+Request No 231 : -1
+Request No 232 : 3
+Request No 233 : -1
+Request No 234 : -1
+Request No 235 : 13
+Request No 236 : -1
+Request No 237 : -1
+Request No 238 : 16
+Request No 239 : -1
+Request No 240 : 22
+Request No 241 : -1
+Request No 242 : -1
+Request No 243 : -1
+Request No 244 : -1
+Request No 245 : -1
+Request No 246 : -1
+Request No 247 : -1
+Request No 248 : -1
+Request No 249 : -1
+PerfectScore = 0.6
+#Num Generations = 31
+Fitness 0.6
+***********************************DataCenter*******************************
+[1, 755, 28, 2525, 2]
+
+[1, 755, 28, 2525, 347]
+
+[1, 755, 91, 2525, 73]
+
+[2, 1435, 293, 3486, 40]
+
+[2, 1435, 383, 3486, 53]
+
+[2, 1435, 525, 3486, 77]
+
+[2, 1435, 586, 3486, 30]
+
+[3, 48, 0, 5628, 9]
+
+[3, 48, 8, 5628, 1762]
+
+[3, 48, 4, 5628, 1542]
+
+[4, 433, 134, 5205, 18]
+
+[4, 433, 7, 5205, 232]
+
+[4, 433, 9, 5205, 147]
+
+[4, 433, 44, 5205, 32]
+
+[4, 433, 176, 5205, 68]
+
+[5, 853, 10, 12675, 1796]
+
+[6, 54, 2, 11110, 7360]
+
+[6, 54, 4, 11110, 6847]
+
+[6, 54, 0, 11110, 6904]
+
+[6, 54, 4, 11110, 9234]
+
+[6, 54, 5, 11110, 9055]
+
+[7, 1363, 20, 6189, 83]
+
+[7, 1363, 685, 6189, 83]
+
+[7, 1363, 178, 6189, 16]
+
+[7, 1363, 554, 6189, 81]
+
+[7, 1363, 398, 6189, 54]
+

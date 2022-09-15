@@ -1,0 +1,9 @@
+*.pdf
+*.doc
+*.docx
+*.png
+*.jpg
+~*
+*.db
+.vscode*
+*.pyc

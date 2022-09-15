@@ -1,0 +1,251 @@
+%%%%%%%%%%%%%%%%%%SOLUTION%%%%%%%%%%%%%%%%%
+Request No 0 : 6
+Request No 1 : 17
+Request No 2 : 23
+Request No 3 : -1
+Request No 4 : -1
+Request No 5 : 5
+Request No 6 : 17
+Request No 7 : -1
+Request No 8 : 8
+Request No 9 : 1
+Request No 10 : 4
+Request No 11 : 3
+Request No 12 : -1
+Request No 13 : 18
+Request No 14 : 8
+Request No 15 : 22
+Request No 16 : 1
+Request No 17 : 2
+Request No 18 : 16
+Request No 19 : 1
+Request No 20 : -1
+Request No 21 : -1
+Request No 22 : 3
+Request No 23 : 19
+Request No 24 : 3
+Request No 25 : 18
+Request No 26 : 5
+Request No 27 : 17
+Request No 28 : 12
+Request No 29 : -1
+Request No 30 : 13
+Request No 31 : 18
+Request No 32 : 2
+Request No 33 : 2
+Request No 34 : 1
+Request No 35 : 18
+Request No 36 : 6
+Request No 37 : 6
+Request No 38 : -1
+Request No 39 : 17
+Request No 40 : 19
+Request No 41 : 22
+Request No 42 : -1
+Request No 43 : 6
+Request No 44 : -1
+Request No 45 : 4
+Request No 46 : 24
+Request No 47 : 3
+Request No 48 : 2
+Request No 49 : 6
+Request No 50 : -1
+Request No 51 : 7
+Request No 52 : 7
+Request No 53 : -1
+Request No 54 : 17
+Request No 55 : -1
+Request No 56 : 19
+Request No 57 : 7
+Request No 58 : 3
+Request No 59 : 6
+Request No 60 : 7
+Request No 61 : 8
+Request No 62 : 15
+Request No 63 : 1
+Request No 64 : -1
+Request No 65 : 7
+Request No 66 : 4
+Request No 67 : 5
+Request No 68 : 9
+Request No 69 : 17
+Request No 70 : -1
+Request No 71 : 2
+Request No 72 : 4
+Request No 73 : 3
+Request No 74 : 22
+Request No 75 : 17
+Request No 76 : -1
+Request No 77 : 2
+Request No 78 : 2
+Request No 79 : -1
+Request No 80 : 18
+Request No 81 : 6
+Request No 82 : 8
+Request No 83 : 24
+Request No 84 : 8
+Request No 85 : -1
+Request No 86 : 24
+Request No 87 : 2
+Request No 88 : 7
+Request No 89 : -1
+Request No 90 : 4
+Request No 91 : 11
+Request No 92 : -1
+Request No 93 : -1
+Request No 94 : -1
+Request No 95 : -1
+Request No 96 : 1
+Request No 97 : -1
+Request No 98 : 9
+Request No 99 : 5
+Request No 100 : -1
+Request No 101 : 19
+Request No 102 : 6
+Request No 103 : 18
+Request No 104 : 7
+Request No 105 : 5
+Request No 106 : -1
+Request No 107 : 8
+Request No 108 : 11
+Request No 109 : 5
+Request No 110 : 7
+Request No 111 : -1
+Request No 112 : -1
+Request No 113 : 3
+Request No 114 : 12
+Request No 115 : 10
+Request No 116 : -1
+Request No 117 : 22
+Request No 118 : -1
+Request No 119 : 1
+Request No 120 : -1
+Request No 121 : 3
+Request No 122 : 8
+Request No 123 : 18
+Request No 124 : -1
+Request No 125 : 8
+Request No 126 : -1
+Request No 127 : 19
+Request No 128 : -1
+Request No 129 : -1
+Request No 130 : -1
+Request No 131 : -1
+Request No 132 : 6
+Request No 133 : -1
+Request No 134 : 7
+Request No 135 : 5
+Request No 136 : -1
+Request No 137 : -1
+Request No 138 : 24
+Request No 139 : -1
+Request No 140 : 4
+Request No 141 : 17
+Request No 142 : 10
+Request No 143 : 5
+Request No 144 : 16
+Request No 145 : -1
+Request No 146 : -1
+Request No 147 : 23
+Request No 148 : -1
+Request No 149 : 14
+Request No 150 : -1
+Request No 151 : 8
+Request No 152 : -1
+Request No 153 : 19
+Request No 154 : 3
+Request No 155 : 6
+Request No 156 : -1
+Request No 157 : -1
+Request No 158 : 2
+Request No 159 : -1
+Request No 160 : 22
+Request No 161 : -1
+Request No 162 : 24
+Request No 163 : 13
+Request No 164 : 19
+Request No 165 : -1
+Request No 166 : -1
+Request No 167 : -1
+Request No 168 : -1
+Request No 169 : -1
+Request No 170 : -1
+Request No 171 : 2
+Request No 172 : -1
+Request No 173 : 4
+Request No 174 : 3
+Request No 175 : 24
+Request No 176 : 18
+Request No 177 : -1
+Request No 178 : 1
+Request No 179 : -1
+Request No 180 : -1
+Request No 181 : -1
+Request No 182 : 7
+Request No 183 : -1
+Request No 184 : -1
+Request No 185 : -1
+Request No 186 : -1
+Request No 187 : 5
+Request No 188 : 16
+Request No 189 : -1
+Request No 190 : -1
+Request No 191 : 22
+Request No 192 : -1
+Request No 193 : -1
+Request No 194 : -1
+Request No 195 : 18
+Request No 196 : -1
+Request No 197 : -1
+Request No 198 : -1
+Request No 199 : -1
+Fitness 0.63
+***********************************DataCenter*******************************
+[1, 731, 191, 9552, 17]
+
+[1, 731, 25, 9552, 96]
+
+[1, 731, 9, 9552, 3]
+
+[1, 731, 11, 9552, 17]
+
+[1, 731, 17, 9552, 425]
+
+[1, 731, 0, 9552, 31]
+
+[1, 731, 19, 9552, 2]
+
+[2, 443, 0, 10155, 20]
+
+[2, 443, 227, 10155, 7522]
+
+[3, 149, 4, 383, 3]
+
+[3, 149, 16, 383, 30]
+
+[3, 149, 16, 383, 5]
+
+[3, 149, 10, 383, 61]
+
+[3, 149, 21, 383, 88]
+
+[3, 149, 27, 383, 139]
+
+[3, 149, 7, 383, 38]
+
+[4, 871, 4, 6765, 91]
+
+[4, 871, 21, 6765, 23]
+
+[4, 871, 33, 6765, 22]
+
+[5, 65, 65, 9557, 9557]
+
+[5, 65, 65, 9557, 9557]
+
+[6, 680, 31, 2715, 17]
+
+[7, 165, 5, 6807, 3672]
+
+[7, 165, 10, 6807, 1110]
+
